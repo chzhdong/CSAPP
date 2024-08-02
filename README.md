@@ -1,2 +1,5 @@
 # CSAPP
-The CSAPP Course's repository includes its projects and assignments.
+
+本仓库用于保存自学 CMU CSAPP 课程作业及项目的源代码；
+
+如代码存在错误或问题，欢迎随时反馈和讨论。
